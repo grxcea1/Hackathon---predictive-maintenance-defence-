@@ -18,7 +18,6 @@ Tech Stack
 Python – data man
 Scikit-learn / PyT
 Matplotlib / Plotly – graphs and visualizations
-Streamlit / Flask (optional) – quick interactive dashboard for demo That We’re working with UAV flight logs (CSV/binary)
 
 Hackathon Goal:
 Our prototype will Highlight and show results in a simple dashboard with alerts and visual explanations
